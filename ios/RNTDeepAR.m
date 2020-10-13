@@ -22,7 +22,7 @@
     _arview = [[ARView alloc] init];
     
     // Set your app licence key for iOS project here (created through developer.deepar.ai)
-    [_arview setLicenseKey:@"your_licence_key_here"];
+    [_arview setLicenseKey:@"aeae402392e47e28f528d430cdc0c34c03142a760725dd4135e18b21b1952bcb5617e71d6a76b6ed"];
     
     _arview.delegate = self;
     [self addSubview:_arview];
